@@ -1,0 +1,4 @@
+@EndUserText.label: 'Plant data'
+define service ZSD_PLANT1 {
+  expose ZI_PLANT;
+}
